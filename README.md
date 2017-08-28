@@ -13,3 +13,5 @@ http://blog.csdn.net/guodongxiaren/article/details/23690801
 ![](http://www.baidu.com/img/bdlogo.gif)  
 <BR>
   ![baidu](http://www.baidu.com/img/bdlogo.gif)  
+<BR>
+  ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")  
